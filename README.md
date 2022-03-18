@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kaisomir
-- 👀 I’m interested in vidoe gmae.
-- 🌱 I’m currently studying CS at Goethe Universität Frankfurt
-- 📫 You can reach me via @kaisomir on most platforms, or @kaisomir#1357 on Discord.
+# hi :) klaisomir here
+
+@kaisomir everywhere, kaisomir#1357 on Discord
